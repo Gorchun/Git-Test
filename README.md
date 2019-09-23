@@ -1,16 +1,15 @@
 # Git-Test
 ## Just A Note About Git
 ---
-***Geneally Instructions：***
+***Generally Instructions：***
 
-***First Step:(get a repo and start cooprating with your friends)***
+***First Step:(get a repo and start cooperating with your friends)***
 
 git clone [repository name]  //clone repo, repo can be an URL or IP[:port]
 
 git clone https://github.com/Gorchun/Git-Test.git
 
 git clone 202.202.43.125/Example.git
-
 
 ***Second Step:(pull updates from other if it exists)***
 
@@ -27,8 +26,7 @@ git add + filename //add your local file to stash
 
 git add Readme.md  //add 'Readme.md' file
 
-git add . // The charcter '.' here represents all files in this directory
-
+git add . // The character '.' here represents all files in this directory
 
 ***Fourth Step:(commit changes)***
 
@@ -49,16 +47,15 @@ git push origin master:Gorchun //use your local master branch to update the Gorc
 
 ***Other Useful Instructions:***
 
-git log // use in your local directory (cmd), and you can get all the commit informations before your current version.
+git log // use in your local directory (cmd), and you can get all the committed information before your current version.
 
-***Note:***
+***Notes:***
 
 1.If your want to commit your change to remote repo, make sure that you have the authority. Or remote repo will refuse your commit.
 
-2.Before you push, you must pull the changes first. Or you will fail to push if there is a new change commited from others.
+2.Before you push, you must pull the changes first. Or you will fail to push if there is a new change committed from others.
 
-
-***Write Your Name here:***
+***Write Your Name here:（you can try to add your name here and update remote repo）***
 
 | name  | date  |
 | :--:  | :--:  |
