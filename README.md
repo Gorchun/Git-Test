@@ -42,12 +42,16 @@ git push [origin branch-name1 : branch-name2]
 git push origin master //use your local master branch to update the master branch of the remote repo
 git push origin master:Gorchun //use your local master branch to update the Gorchun branch of the remote repo
 
+***Other Useful Instructions:***
+
+git log // use in your local directory (cmd), and you can get all the commit informations before your current version.
+
 ***Note:***
 1.If your want to commit your change to remote repo, make sure that you have the authority. Or remote repo will refuse your commit.
 2.Before you push, you must pull the changes first. Or you will fail to push if there is a new change commited from others.
 
 
 ***Write Your Name here:***
-name|date
---|--:
-Gorchun|2019.09.23
+|name|date|
+|--|--|
+|Gorchun|2019.09.23|
