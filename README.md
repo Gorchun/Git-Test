@@ -59,11 +59,7 @@ git log // use in your local directory (cmd), and you can get all the commit inf
 
 
 ***Write Your Name here:***
+
 | name  | date  |
 | :--:  | :--:  |
 | Gorchun  | 2019.09.23  |
-
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
