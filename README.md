@@ -1,7 +1,7 @@
 # Git-Test
 ## Just A Note About Git
 ---
-###Geneally Instructions：###
+###Geneally Instructions：
 
 ***First Step:(get a repo and start cooprating with your friends)***
 
@@ -52,6 +52,6 @@ git log // use in your local directory (cmd), and you can get all the commit inf
 
 
 ***Write Your Name here:***
-|name|date|
-|--|--|
-|Gorchun|2019.09.23|
+| name | date |
+| :--: | :--: |
+| Gorchun | 2019.09.23 |
